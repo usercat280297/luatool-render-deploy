@@ -5460,6 +5460,10 @@ app.get('/health', (req, res) => {
   });
 });
 
+app.get('/healthz', (req, res) => {
+  res.status(200).json({ status: 'ok' });
+});
+
 // ============================================
 // MORRENUS KEY STATUS ENDPOINT
 // ============================================
@@ -5685,13 +5689,14 @@ function formatUptime(seconds) {
 }
 
 const START_PORT = process.env.PORT || 3000;
+const START_HOST = process.env.HOST || '0.0.0.0';
 
 function startServer(port) {
-  const server = app.listen(port, () => {
-    console.log(`✅ Health check server running on port ${port}`);
-    console.log(`🌐 Access at: http://localhost:${port}`);
-    console.log(`📊 Health endpoint: http://localhost:${port}/health`);
-    console.log(`🔑 Morrenus status: http://localhost:${port}/morrenus-status\n`);
+  const server = app.listen(port, START_HOST, () => {
+    console.log(`✅ Health check server running on ${START_HOST}:${port}`);
+    console.log(`🌐 Local access: http://localhost:${port}`);
+    console.log(`📊 Health endpoint: /health`);
+    console.log(`🔑 Morrenus status: /morrenus-status\n`);
   });
 
   server.on('error', (error) => {
@@ -5707,6 +5712,10 @@ function startServer(port) {
 
 // Explicit HEAD handler so uptime monitors receive a fast 200 even when using HEAD
 app.head('/health', (req, res) => {
+  res.status(200).end();
+});
+
+app.head('/healthz', (req, res) => {
   res.status(200).end();
 });
 
