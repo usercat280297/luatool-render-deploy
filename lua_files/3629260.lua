@@ -1,0 +1,36 @@
+-- EA SPORTS FC​​‌‌​​‌‌​​‌‌​​​​​​‌‌​​‌‌​​‌‌‌​​‌​​‌‌​‌‌​​‌‌​​‌​​​​‌‌​‌‌‌​​‌‌​​‌​​​‌‌​‌‌‌​‌‌​​‌​​​‌‌​​‌‌​​‌‌​​​‌​​​‌‌​‌​‌​​‌‌​‌​‌​‌‌​​​​‌​​‌‌​​‌​™ 26 SHOWCASE
+-- AppID 3629260 | Generated on 2026-01-01 03:33 UTC | openlua.cloud
+-- Type: Demo
+-- Warning: This game uses DRM (Denuvo Anti-Tamper, EA App)
+
+-- Main Application
+addappid(3629260)
+
+-- Content Depots (1)
+addappid(3629261, 1, "C3F94E6A796E6ADA2EAFB5196034C4DEE4D4F5312E944888E782408E1DA6AE9B") -- EA SPORTS FC™ 26 SHOWCASE - Content
+
+-- Shared Depots (24)
+addappid(228989, 1, "ad69276eb476cf06c40312df7376d63deac0c838b9a2767005be8bb306ffb853") -- VC 2022 Redist (from 228980)
+addappid(3340991, 1, "023daedb070e5af8704dc88ee0af829f5c11923d2e6a42cca11ba5713b9f4491") -- Plants vs. Zombies™ Garden Warfare 2: Deluxe Edition - Content (from 3340990)
+addappid(3405691, 1, "12a93ecb44c6b853d762578ffef21df60aa702f723232d87f81f485f7e636684") -- EA SPORTS FC™ 26 - Content (from 3405690)
+addappid(3405692, 1, "c6ec306084ddbc34166f66738b51806ae01d351b007df9dbfb5a17531575b5b7") -- EA SPORTS FC™ 26 - Content (from 3405690)
+addappid(3405693, 1, "684e872bb91267d94cb6b604f3851b322d7f3097347d27a21ba119c822c80ac1") -- EA SPORTS FC™ 26 - Content (from 3405690)
+addappid(3405694, 1, "807a1450e4e3200b6fa0ee63b41651b467484775b8b7cd64e1fdd3f32e2ff466") -- EA SPORTS FC™ 26 - Content (from 3405690)
+addappid(3405695, 1, "9d8e39a63134b325186f44ee79df6023adbd4585f926ac27d99fd20d2b4689b1") -- EA SPORTS FC™ 26 - Content (from 3405690)
+addappid(3405696, 1, "b48a48cfacf2e2e24f564c56bea0624d00744fb79f94bc6470e039dbf783b0fb") -- EA SPORTS FC™ 26 - Content (from 3405690)
+addappid(3405697, 1, "05c30614464586cbdaa5cc6d2420004ed85be6113860ed3092acba46190d3e10") -- EA SPORTS FC™ 26 - Content (from 3405690)
+addappid(3405698, 1, "d4c795b81851da1cdb29d739abcde82d3af4972dde9e4cfb47afe6f602132713") -- EA SPORTS FC™ 26 - Content (from 3405690)
+addappid(3405699, 1, "4bd67983492c731beceea51679510dc6a8f3b8dd30f42b307b61803d305082a7") -- EA SPORTS FC™ 26 - Content (from 3405690)
+addappid(3405701, 1, "34125f2eddef4bd7192c97bc6e5daa2280c2f8a2bf449efb544c557bf0c64345") -- EA SPORTS FC™ 26 - Content (from 3405690)
+addappid(3405702, 1, "280968368ef276032b87f704f89e4e72c508265b1941279a0fd917cce852ccbb") -- EA SPORTS FC™ 26 - Content (from 3405690)
+addappid(3405703, 1, "b4952b326fd29fbc8305521132204db66bf42da6f2a1762ba749fc0dfb19fd51") -- EA SPORTS FC™ 26 - Content (from 3405690)
+addappid(3405704, 1, "a9646252767ad1e1b4dadb53f0b3e55aa3f47b24194411c4936119bc38292e13") -- EA SPORTS FC™ 26 - Content (from 3405690)
+addappid(3405705, 1, "6beb7e95413777101eb6bcc85a1d4b3cb8944742ac13fd0b763fd767ad45a2bf") -- EA SPORTS FC™ 26 - Content (from 3405690)
+addappid(3405706, 1, "49e4266b919686a1e009092bebae33ef34e56a40da196671f5caf22f8a0f10fd") -- EA SPORTS FC™ 26 - Content (from 3405690)
+addappid(3405707, 1, "474261f80ec08ec0f21ce91b7ce542b3b9a16e0b716191a81d8dc66683b74cdd") -- EA SPORTS FC™ 26 - Content (from 3405690)
+addappid(3405708, 1, "5b4b9d2954b602a49dc87189e660332a7b8c81c88fee10b6350dacfd14704572") -- EA SPORTS FC™ 26 - Content (from 3405690)
+addappid(3405709, 1, "efcad7fae359a3dbcb0caa0e2a2f21a3f2996e9d90a94b58e40b635a87a85244") -- EA SPORTS FC™ 26 - Content (from 3405690)
+addappid(3405711, 1, "a47af223a991d72c48d1af1aa4232265ee7c65ad78a651f5bbd8a7b773a2618a") -- EA SPORTS FC™ 26 - Content (from 3405690)
+addappid(3405712, 1, "1af2e8bc3d90234bfd55dd6d7273b412568c2cea29e93dbaa1148cb3ea7426fe") -- EA SPORTS FC™ 26 - Content (from 3405690)
+addappid(3405713, 1, "9a264107b9f1925d8e91afb72a2d7f8c706ad8db2ac6aab2cdfc64d2c88ee3ab") -- EA SPORTS FC™ 26 - Content (from 3405690)
+addappid(3405714, 1, "3d05b44725b01a4b2777e069e593450f655d45a0768d7b25590a71c70a68c64b") -- EA SPORTS FC™ 26 - Content (from 3405690)

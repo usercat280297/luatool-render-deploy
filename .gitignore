@@ -1,0 +1,56 @@
+# Environment files
+.env
+.env.*
+.env.local
+.env.*.local
+*.env
+
+# Example / sample files
+*.example
+*.env.example
+*.sample
+*.dist
+
+# Secrets, keys, certificates
+secrets*
+secrets/
+credentials.json
+*.key
+*.pem
+*.p12
+*.pfx
+*.crt
+*.cert
+
+# Logs and runtime
+logs/
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Dependency directories
+node_modules/
+bin/
+
+# OS and editor files
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+# File: .gitignore
+node_modules/
+database.json
+logs/
+*.log
+.env
+.DS_Store
+Thumbs.db
+online_fix/
+.trae/document
+.playwright-session/
+morrenus_apikeys_page.html
+temp_cookie.txt
+database.backup.json
+__pycache__/
+*.pyc

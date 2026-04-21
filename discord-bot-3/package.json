@@ -1,0 +1,16 @@
+{
+  "name": "discord-bot-3",
+  "version": "1.0.0",
+  "description": "Discord bot with /gen appid command and pluggable sources",
+  "main": "src/index.js",
+  "type": "commonjs",
+  "scripts": {
+    "start": "node src/index.js",
+    "check": "node --check src/index.js"
+  },
+  "dependencies": {
+    "axios": "^1.8.4",
+    "discord.js": "^14.17.3",
+    "dotenv": "^16.5.0"
+  }
+}

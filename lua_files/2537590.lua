@@ -1,0 +1,20 @@
+-- Microsoft Fligh​‌‌​​‌​​​‌‌​​‌‌​​‌‌​​​​‌​‌‌​​‌​​​​‌‌​‌‌​​​‌‌​​​‌​​‌‌​‌​​​‌‌​​‌‌​​​‌‌​‌‌​​​‌‌​​‌​​​‌‌​‌​​​​‌‌‌​​‌​‌‌​​‌​​​​‌‌​​​​​​‌‌​​​​​​‌‌​​‌‌t Simulator 2024
+-- AppID 2537590 | Generated on 2026-01-01 05:25 UTC | openlua.cloud
+-- Warning: This game uses DRM (Xbox Live)
+-- Note: This game supports Steam Workshop content
+
+-- Main Application
+addappid(2537590, 1, "f264fcd2580ab71934f29046dc415c3a83163882e768246533ed1f20f1730835")
+
+-- Content Depots (1)
+addappid(2537591, 1, "a149759cc259406fd0f2255297e089d9deb63fb59c263b7f2d1b7fcd7aded1a4") -- Microsoft Flight Simulator 2024 - Content
+
+-- Shared Depots (1)
+addappid(228989, 1, "ad69276eb476cf06c40312df7376d63deac0c838b9a2767005be8bb306ffb853") -- VC 2022 Redist (from 228980)
+
+-- DLCs without Dedicated Depots (5)
+addappid(3245700) -- Microsoft Flight Simulator 2024 Deluxe
+addappid(3341960) -- Microsoft Flight Simulator 2024 - Premium Deluxe Upgrade
+addappid(3227340) -- Limitless - Preorder Bonus
+addappid(3245710) -- Microsoft Flight Simulator 2024 - Premium Deluxe
+addappid(3245690) -- Microsoft Flight Simulator 2024 - Aviator

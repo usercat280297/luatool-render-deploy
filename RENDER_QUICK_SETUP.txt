@@ -1,0 +1,64 @@
+╔═══════════════════════════════════════════════════════════════╗
+║                                                               ║
+║         🚀 RENDER QUICK SETUP - HƯỚNG DẪN NHANH             ║
+║                                                               ║
+╚═══════════════════════════════════════════════════════════════╝
+
+
+⚡ 5 BƯỚC NHANH
+═══════════════════════════════════════════════════════════════
+
+1. Vào https://render.com → Đăng nhập
+
+2. New + → Web Service → Connect GitHub
+
+3. Chọn repo: usercat280297/Luatool
+
+4. Cấu hình:
+   Name: discord-lua-bot-v2
+   Build: npm install
+   Start: npm start
+
+5. Thêm Environment Variables (copy từ .env)
+
+
+📋 ENVIRONMENT VARIABLES
+═══════════════════════════════════════════════════════════════
+
+Copy các dòng này vào Render:
+
+BOT_TOKEN=<copy_từ_file_.env>
+GITHUB_TOKEN=<copy_từ_file_.env>
+GITHUB_REPO_OWNER=usercat280297
+GITHUB_REPO_NAME=Luatool
+STEAM_API_KEY=<copy_từ_file_.env>
+MONGODB_URI=<copy_từ_file_.env>
+NODE_ENV=production
+API_PORT=3000
+ENABLE_DETAILED_LOGGING=true
+
+
+✅ KIỂM TRA
+═══════════════════════════════════════════════════════════════
+
+Sau khi deploy xong:
+
+1. Xem Logs → Tìm dòng:
+   ✅ Logged in as: YourBot#1234
+
+2. Test Discord:
+   !help
+   !1623730
+
+3. Xong! Bot đã chạy trên Render
+
+
+🎉 HOÀN TẤT!
+═══════════════════════════════════════════════════════════════
+
+Bot v2.0 với:
+✅ UI đẹp
+✅ Data mới nhất
+✅ Thu thập lua tự động
+
+Chúc bạn test vui vẻ! 🚀

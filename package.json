@@ -1,0 +1,47 @@
+{
+  "name": "discord-lua-bot",
+  "version": "2.0.0",
+  "description": "Discord bot with enhanced Lua game downloader, Online-Fix integration, and smart game search",
+  "main": "lua_discord_bot.js",
+  "scripts": {
+    "start": "node src/lua_discord_bot.js",
+    "dev": "node src/lua_discord_bot.js",
+    "test": "node tests/runner.js",
+    "download-lua": "node scripts/bulk_lua_downloader.js",
+    "bot": "node src/lua_discord_bot.js",
+    "collect-lua": "node scripts/lua_collector.js",
+    "update-steamdb": "node scripts/steamdb_updater.js update-all",
+    "build:engines": "node scripts/engines/build_engines.js",
+    "build:rust:checksum": "node scripts/engines/build_checksum_rust.js",
+    "smoke:engine": "node scripts/engines/smoke_test.js",
+    "smoke:steamdb": "node scripts/engines/smoke_test.js --target=steamdb",
+    "smoke:checksum": "node scripts/engines/smoke_checksum.js",
+    "postinstall": "node scripts/ensure_playwright.js"
+  },
+  "keywords": [
+    "discord",
+    "bot",
+    "lua",
+    "game",
+    "steam",
+    "online-fix",
+    "drm"
+  ],
+  "author": "Your Name",
+  "license": "ISC",
+  "type": "commonjs",
+  "dependencies": {
+    "axios": "^1.13.2",
+    "cheerio": "^1.1.2",
+    "discord.js": "^14.25.1",
+    "dotenv": "^17.2.3",
+    "express": "^4.22.1",
+    "node-fetch": "^3.3.2",
+    "playwright": "^1.58.2",
+    "playwright-core": "^1.58.2",
+    "puppeteer": "^24.34.0"
+  },
+  "engines": {
+    "node": "20.x"
+  }
+}

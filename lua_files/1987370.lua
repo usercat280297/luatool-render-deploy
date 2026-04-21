@@ -1,0 +1,9 @@
+-- This file was fetched from twentytwo cloud which is the exclusive property of Twentytwo server.
+-- Redistribution of twentytwo's files is not allowed AT ALL
+-- Join the server here: https://discord.com/invite/vwGWeTFTXW
+
+addappid(1987370)
+addappid(1987371,0,"5c0cb7ba48fedee866b8b3c90e22dae641dba988107039fd1d6ca93d47adcedb")
+setManifestid(1987371,"5597060433098959309")
+addappid(1987372,0,"e8c2304fe975d3751d88b48750d7bebd9b4d4e3b27a87c0c45d40beb7a6f96d5")
+setManifestid(1987372,"8638777738334828175")

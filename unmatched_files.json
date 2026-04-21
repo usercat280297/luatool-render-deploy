@@ -1,0 +1,97 @@
+{
+  "lua": [
+    {
+      "name": "crack_world-fix-licence.st",
+      "path": "lua_files\\crack_world-fix-licence.st",
+      "size": 74
+    },
+    {
+      "name": "crack_world-fix-licence.xor",
+      "path": "lua_files\\crack_world-fix-licence.xor",
+      "size": 62
+    },
+    {
+      "name": "Dying Light_ The Beast_All_DLCs.lua",
+      "path": "lua_files\\Dying Light_ The Beast_All_DLCs.lua",
+      "size": 153
+    },
+    {
+      "name": "licence.st",
+      "path": "lua_files\\licence.st",
+      "size": 32
+    },
+    {
+      "name": "licence.xor",
+      "path": "lua_files\\licence.xor",
+      "size": 20
+    },
+    {
+      "name": "Mafia_ The Old Country_All_DLCs.lua",
+      "path": "lua_files\\Mafia_ The Old Country_All_DLCs.lua",
+      "size": 69
+    },
+    {
+      "name": "Steamtools.lua",
+      "path": "lua_files\\Steamtools.lua",
+      "size": 1371
+    }
+  ],
+  "fix": [],
+  "online": [
+    {
+      "name": "Among Us online-fix.zip",
+      "path": "online_fix\\Among Us online-fix.zip",
+      "size": 8862024
+    },
+    {
+      "name": "DARK SOULS REMASTERED online-fix.zip",
+      "path": "online_fix\\DARK SOULS REMASTERED online-fix.zip",
+      "size": 13340888
+    },
+    {
+      "name": "Devour online-fix.zip",
+      "path": "online_fix\\Devour online-fix.zip",
+      "size": 19898328
+    },
+    {
+      "name": "Escape The Backrooms online-fix.zip",
+      "path": "online_fix\\Escape The Backrooms online-fix.zip",
+      "size": 10901215
+    },
+    {
+      "name": "Exit together online-fix.zip",
+      "path": "online_fix\\Exit together online-fix.zip",
+      "size": 10798417
+    },
+    {
+      "name": "Little nightmares III online-fix.zip",
+      "path": "online_fix\\Little nightmares III online-fix.zip",
+      "size": 10794033
+    },
+    {
+      "name": "PEAK online-fix.zip",
+      "path": "online_fix\\PEAK online-fix.zip",
+      "size": 11732624
+    },
+    {
+      "name": "Pizza Deathlivery online-fix.zip",
+      "path": "online_fix\\Pizza Deathlivery online-fix.zip",
+      "size": 10833725
+    },
+    {
+      "name": "README.md",
+      "path": "online_fix\\README.md",
+      "size": 760
+    },
+    {
+      "name": "RV There Yet online-fix.zip",
+      "path": "online_fix\\RV There Yet online-fix.zip",
+      "size": 10918006
+    },
+    {
+      "name": "SILENT BREATH online-fix.zip",
+      "path": "online_fix\\SILENT BREATH online-fix.zip",
+      "size": 10915662
+    }
+  ]
+}

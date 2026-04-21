@@ -1,0 +1,88 @@
+{
+  "1274570": {
+    "data": {
+      "appId": "1274570",
+      "name": "DEVOUR",
+      "type": "game",
+      "shortDescription": "DEVOUR is a co-op horror survival game for 1-4 players. Stop possessed cultists before they drag you to hell. Run. Scream. Hide. Just don't get caught.",
+      "headerImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1274570/9e87b6a67f6c72fc7a29cb91a36d901b5be45c3d/header_alt_assets_4.jpg?t=1765533474",
+      "developers": [
+        "Straight Back Games"
+      ],
+      "publishers": [
+        "Straight Back Games"
+      ],
+      "releaseDate": "28 Jan, 2021",
+      "price": "71.000₫",
+      "priceRaw": 7100000,
+      "currency": "VND",
+      "isFree": false,
+      "dlcCount": 2,
+      "categories": [
+        "Single-player",
+        "Multi-player",
+        "Co-op",
+        "Online Co-op",
+        "Steam Achievements",
+        "Full controller support",
+        "Tracked Controller Support",
+        "VR Supported",
+        "Steam Trading Cards",
+        "Steam Cloud",
+        "Family Sharing"
+      ],
+      "genres": [
+        "Indie"
+      ],
+      "platforms": {
+        "windows": true,
+        "mac": true,
+        "linux": false
+      },
+      "metacriticScore": null,
+      "recommendations": 66791,
+      "supportedLanguages": "English<strong>*</strong>, French, Italian, German, Spanish - Spain, Japanese, Korean, Polish, Russian, Simplified Chinese, Spanish - Latin America, Turkish, Thai, Portuguese - Portugal, Czech, Dutch, Finnish, Norwegian, Portuguese - Brazil, Romanian, Hungarian, Slovak, Ukrainian<br><strong>*</strong>languages with full audio support",
+      "screenshots": [
+        "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1274570/ss_74c69c54b1b4f2dc14789e001787c6b462549698.1920x1080.jpg?t=1765533474",
+        "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1274570/ss_45cba337b726295b3ae6342b2ba9efefa9e6d8bc.1920x1080.jpg?t=1765533474",
+        "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1274570/ss_65b0bd84707c9c8b58a81adee7600014ca0cdeb8.1920x1080.jpg?t=1765533474"
+      ],
+      "movies": [
+        null
+      ],
+      "drm": {
+        "type": "Steam DRM",
+        "hasDenuvo": false,
+        "hasEAC": false,
+        "hasBattlEye": false,
+        "hasEAAntiCheat": false,
+        "hasSteamDRM": true,
+        "isDRMFree": false,
+        "severity": "info",
+        "icon": "🔒",
+        "needsOnlineFix": true
+      },
+      "publisher": {
+        "name": "Straight Back Games",
+        "isEA": false,
+        "isUbisoft": false,
+        "isActivision": false,
+        "isRockstar": false
+      },
+      "size": 10737418240,
+      "sizeFormatted": "10 GB",
+      "languageCount": 23,
+      "steamSpy": {
+        "owners": "2,000,000 .. 5,000,000",
+        "averagePlaytime": 414,
+        "medianPlaytime": 225,
+        "ccu": 447
+      },
+      "isEAGame": false,
+      "hasMultiplayer": true,
+      "isEarlyAccess": false,
+      "lastUpdated": 1766135029463
+    },
+    "timestamp": 1766135029463
+  }
+}

@@ -1,0 +1,56 @@
+-- 592580's Lua and Manifest Created by Morrenus
+-- PRO EVOLUTION SOCCER 2018
+-- Created: September 30, 2025 at 08:00:04 EDT
+-- Website: https://manifest.morrenus.xyz/
+-- Total Depots: 20
+-- Total DLCs: 3
+-- Shared Depots: 3
+
+-- MAIN APPLICATION
+addappid(592580) -- PRO EVOLUTION SOCCER 2018
+-- MAIN APP DEPOTS
+addappid(592581, 1, "9a0ccfcbb46bf6acd9be7207f58650c9a00bac8abbc124f7c3ea12c4adb1a7a1") -- Pro Evolution Soccer 2018 Content
+setManifestid(592581, "6067171887795670072", 22043338795)
+addappid(592582, 1, "fbf27dee420c92304109f30ce615b6c72d8bac924c8588a2358c75230994587f") -- english
+setManifestid(592582, "6506749648675319346", 1484045345)
+addappid(592583, 1, "b31f78f7d4491c71e638d861b9227981499db2e48380ca68b44ab224e1097ba0") -- swedish
+setManifestid(592583, "5185496193367601888", 565241981)
+addappid(592584, 1, "4dce4cb6e032252ceaa6325b62dfcd385f0132fc5e1d670e0368b678b7635db4") -- french
+setManifestid(592584, "6555476214693145802", 497300031)
+addappid(592585, 1, "a61faabf034b0f23742da24265cd41c205d2cab6f1d9d3d38c55ceedf24b4231") -- german
+setManifestid(592585, "6498937558138403889", 592408537)
+addappid(592586, 1, "538912881fc94b18fc3bd9d00b0c6ef062a7e95dcbeb121be4f231bbd90c0907") -- italian
+setManifestid(592586, "6669605866416115703", 518464765)
+addappid(592587, 1, "247a1069e74eb17a4fdf7506a8df5958d0ab639c9a1fcd7b37f7c92b19eebe08") -- dutch
+setManifestid(592587, "2207783177434996419", 565254269)
+addappid(592588, 1, "1eb0ed68ee195d45bf33b895ef8d26b4b1ad83a37c8ea679960a8547a1e35fb4") -- turkish
+setManifestid(592588, "4290844113835195454", 565260413)
+addappid(592589, 1, "8408c4e4409a9eb0e784335b5a3bcc0ba8763ebfacd299659ffe14e43dee276a") -- russian
+setManifestid(592589, "6836290666980838500", 565330045)
+addappid(625520, 1, "b403be4ac4791c5f8174733b9f6d9701849d612fe9291535339789d5e3fb15e3") -- spanish
+setManifestid(625520, "1457760031055615530", 1940511133)
+addappid(625521, 1, "af1b48680df64e8d40e2f28a0884188974cf77ddd8dd76745b2056606f981d00") -- portuguese
+setManifestid(625521, "4119133211423143686", 475139847)
+addappid(625522, 1, "ab3d84f3bf88c21618fbfb497a9ca296f8b745c63c3ae29a274a797d8c52fb09") -- arabic
+setManifestid(625522, "6704258786488994531", 144354401)
+addappid(625523, 1, "12162fd0a8eee2127714224ef233222c263bec0e61279495749951dd576b69b8") -- greek
+setManifestid(625523, "458955596857843271", 429220497)
+addappid(625524, 1, "369fc063f6b820f0ce46681ba93dbfa46aaa1b9e12f73f59c9dd64c1f9d77a38") -- brazil
+setManifestid(625524, "8007341410879282636", 1348148611)
+addappid(625525, 1, "21e642eecfc3ae8d3218f1bc1ea00189ec84b0a940c6963ed89cd06406485948") -- simplified chinese
+setManifestid(625525, "2496668318632904529", 1563686331)
+addappid(625526, 1, "07c31f1be629b9c779ae57c58872a2593301437bb7a6619eb639acb4ff019b57") -- traditional chinese
+setManifestid(625526, "1472225991316999893", 1555656658)
+addappid(625527, 1, "e3c7d298a2262a894c8bb1c09139cf9d803cd4247e42e049f71e2cacb17040ee") -- korean
+setManifestid(625527, "3138125663853187871", 1617925502)
+-- SHARED DEPOTS (from other apps)
+addappid(228986, 1, "51dd3611d28621644730736f3bb1fd6b960053a45cd79123f2b9a80c9181dad5") -- VC 2015 Redist (Shared from App 228980)
+setManifestid(228986, "8782296191957114623", 29759921)
+addappid(228990, 1, "44d8c45ce229a11c4f231a3d2a350eaf80b0d69a8af938ec7ccca720f694b0e8") -- DirectX Jun 2010 Redist (Shared from App 228980)
+setManifestid(228990, "1829726630299308803", 102931551)
+addappid(229005, 1, "aa18a527cdc103aeb3d12caafd6f581689a14467aa55658ba583a9af6e90313a") -- .NET 4.6 Redist (Shared from App 228980)
+setManifestid(229005, "7992454656023763365", 62009092)
+-- DLCS WITHOUT DEDICATED DEPOTS
+addappid(631040) -- Digital Pre-Order Content
+addappid(631041) -- Digital Special Content
+addappid(688230) -- PES 2018 Premium Edition Bonus
